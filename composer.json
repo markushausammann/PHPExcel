@@ -26,6 +26,6 @@
         "ext-gd2": "*"
     },
     "autoload": {
-        "psr-0": {"PHPExcel": "/"}
+        "psr-0": {"PHPExcel": ""}
     }
 }
