@@ -1,3 +1,5 @@
+# Don't use yet, not ready.
+
 This is a mirror of the PHPExcel library by [CodePlex](http://phpexcel.codeplex.com). The mirror doesn't contain documentation or tests.
 
 This mirror has been created to make PHPExcel installable with [Composer](http://packagist.org/).
