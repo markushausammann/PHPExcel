@@ -6,7 +6,7 @@ If you would like to install PHPExcel as a [Composer](http://packagist.org/) pac
 
     {
         "require": {
-            "PHPExcel/PHPExcel": "1.7.6"
+            "CodePlex/PHPExcel": "1.7.6"
         }
     }
 
