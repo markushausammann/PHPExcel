@@ -6,7 +6,7 @@ If you would like to install PHPExcel as a [Composer](http://packagist.org/) pac
 
     {
         "require": {
-            "CodePlex/PHPExcel": "1.7.7"
+            "CodePlex/PHPExcel": "1.7.8"
         }
     }
 
@@ -14,4 +14,5 @@ If you already have a `composer.json` file, just add an attitional requirement f
 
 You can also install the following earlier versions of PHPExcel via Composer:
 
+- 1.7.7
 - 1.7.6
