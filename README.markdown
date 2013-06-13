@@ -1,3 +1,6 @@
+#This mirror is deprecated, please start using the [official repository](https://packagist.org/packages/phpoffice/phpexcel)!
+
+
 ###PHPExcel package for composer
 
 This is a mirror of the PHPExcel library by [CodePlex](http://phpexcel.codeplex.com). The mirror **doesn't contain documentation or tests**.
