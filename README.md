@@ -1,7 +1,7 @@
-#This mirror is deprecated, please start using the [official repository](https://packagist.org/packages/phpoffice/phpexcel)!
+# This mirror is deprecated, please start using the [official repository](https://packagist.org/packages/phpoffice/phpexcel)!
 
 
-###PHPExcel package for composer
+### PHPExcel package for composer
 
 This is a mirror of the PHPExcel library by [CodePlex](http://phpexcel.codeplex.com). The mirror **doesn't contain documentation or tests**.
 
@@ -22,5 +22,5 @@ You can also install the following earlier versions of PHPExcel via Composer:
 - 1.7.7
 - 1.7.6
 
-###Thanks and Disclaimer
+### Thanks and Disclaimer
 Many thanks to the CodePlex guys for this great library! This repo is an unaltered mirror of their work to make PHPExcel composer installable as long as they don't have their own solution in place. I take neither credit nor responsibility for anything that might happen to you due to the use of this package :).
